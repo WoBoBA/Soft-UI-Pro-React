@@ -156,7 +156,7 @@
 }
 .home-text08 {
   top: 40px;
-  left: 6px;
+  left: auto;
   color: rgb(248, 250, 253);
   margin: auto;
   position: absolute;
